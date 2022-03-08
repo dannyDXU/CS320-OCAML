@@ -1,7 +1,7 @@
 (*
 Honor code comes here:
 
-First Name: Danny
+Property of Danny
 
 I pledge that this program represents my own
 program code and that I have coded on my own. I received
